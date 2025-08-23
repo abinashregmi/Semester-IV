@@ -1,4 +1,7 @@
-
+"""
+here i predicted housing prices from kaggle and plot it using matplotlib using sigmoid function and ANN 
+from taking references from mentors,kaggle and through different sources as well
+"""
 import numpy as np
 import pandas as pd
 import matplotlib.pyplot as plt
