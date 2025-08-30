@@ -1,1 +1,12 @@
-
+#### lab 12: Implement a single perceptron for the housing price prediction problem using backpropagation and gradient descent optimization
+#### lab 11: Write a program in coding the following information and representing the information in the form of semantic nets
+#### lab 10: Introduction to Predicate logic and Queries in Prolog - II
+#### lab 9: Introduction to Predicate logic and Queries in Prolog
+#### lab 8: Introduction to Rules and Queries in Prolog
+#### lab 7: Write a program to solve the following water jug problem using the approach of constraint satisfaction problem.
+#### lab 6: Write a basic program to implement minmax algorithm from game playing theory for the given problem and find the optimal path.
+#### lab 5: Write a basic program to implement A* Search and find the path for the given problem
+#### lab 4: Write a basic program to implement Greedy Best First Search and find the path for the given problem
+#### lab 3: Write a basic program to implement Breadth First Search Algorithm
+#### lab 2: Write a basic program to implement Depth First Search Algorithm
+#### lab 1: Write a basic python program to demonstrate Vacuum Cleaner problem
