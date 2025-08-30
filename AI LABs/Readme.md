@@ -1,3 +1,5 @@
+#### lab 14: Implement a multi layer perceptron for the given dataset using linear regression approach using PyTorch
+#### lab 13: Implement a single perceptron for the housing price prediction problem using linear regression approach using PyTorch
 #### lab 12: Implement a single perceptron for the housing price prediction problem using backpropagation and gradient descent optimization
 #### lab 11: Write a program in coding the following information and representing the information in the form of semantic nets
 #### lab 10: Introduction to Predicate logic and Queries in Prolog - II
