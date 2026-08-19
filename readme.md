@@ -1,4 +1,5 @@
-### Semester-IV #### Codes and files needed for all practical labs:-> 
+### Semester-IV 
+#### Codes and files needed for all practical labs:-> 
 #### AI LAB:- https://github.com/abinashregmi/Semester-IV/tree/main/AI%20LABs 
 #### DBMS LAB:- https://github.com/abinashregmi/Semester-IV/tree/main/CN%20LABs 
 #### OS LAB:- https://github.com/abinashregmi/Semester-IV/tree/main/DBMS 
